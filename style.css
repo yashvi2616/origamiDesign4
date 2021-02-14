@@ -1,0 +1,93 @@
+.head{
+      
+    background-color:white;
+    
+    
+     }
+  
+     .note{
+       background-color: red;
+       
+      
+     }
+  
+  .grid {
+    background: #8b0000;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#ff6a6a;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#ff6a6a;
+  }
+  
+  .cicada {
+    border: 1px solid#000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#ff6a6a;
+  }
+  
+  .panda {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#ff6a6a;
+  }
+  
+  .pigeon {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#ff6a6a;
+  }
+  
+  .teddy {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#ff6a6a;
+  }
+
+  a:link{
+    color:royalblue
+  }
+  a:visited{
+    color: seagreen;
+  }
+  .origami:hover img{
+    transform: scale(50);
+  }
